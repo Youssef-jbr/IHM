@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+/* Style the header */
+.header {
+    padding: 80px;
+    text-align: center;
+    background: rgb(255, 255, 255);
+    color: rgb(170, 170, 170);
+} 
+/* Increase the font size of the h1 element */
+.header h1 {
+    font-size: 40px;
+}
+body{
+    background-color: rgb(10, 167, 230);
+    color : white ;
+    font-size: large;
+    text-align: center;
+}
+
+  
